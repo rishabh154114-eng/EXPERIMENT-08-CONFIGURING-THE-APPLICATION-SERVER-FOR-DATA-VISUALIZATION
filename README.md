@@ -1,3 +1,6 @@
+## Name :Rishabh srivatsav
+## REG : 25001966
+## DEP : CSE(iot)
 # EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION
 ## Aim: To  configure  the Application server and visualize the data on the dashboard 
 ## Components required: Iot application server 
@@ -34,6 +37,11 @@ As the application server market matures, high performance becomes a stronger cr
 
 ## OUTPUT 
  
+<img width="1920" height="1200" alt="Screenshot 2025-11-15 102718" src="https://github.com/user-attachments/assets/c7a6a52c-cfd5-4e9e-b7aa-c32e90a9680a" /></br>
+<img width="1920" height="1200" alt="Screenshot 2025-11-15 102718" src="https://github.com/user-attachments/assets/e08b1d6b-7bcd-4993-8612-8023388750d6" /></br>
+<img width="1920" height="1200" alt="Screenshot 2025-11-15 163523" src="https://github.com/user-attachments/assets/45484a45-d597-42d0-936d-084e37c29198" /></br>
+
+
 
 
 
